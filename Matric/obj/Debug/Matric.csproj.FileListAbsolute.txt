@@ -1,0 +1,10 @@
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\bin\Debug\Matric.exe.config
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\bin\Debug\Matric.exe
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\bin\Debug\Matric.pdb
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.csprojAssemblyReference.cache
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.Form1.resources
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.Properties.Resources.resources
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.csproj.GenerateResource.cache
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.csproj.CoreCompileInputs.cache
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.exe
+C:\Users\Timur Mutalimov\source\repos\Matric\Matric\obj\Debug\Matric.pdb
